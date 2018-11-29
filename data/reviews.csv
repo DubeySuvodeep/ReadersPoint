@@ -1,0 +1,50 @@
+id,usernam,book_id,rating,comment
+0,Amit,0,4,Great price.
+1,Amit,1,3,Not great.
+2,Amit,3,4,This can be great with time.
+3,Amit,9,2,Readable...
+4,Amit,10,5,A treasure of a book
+5,Amit,8,4,Impressive, but extremely expensive
+6,Sumit,0,2,old book
+7,Sumit,1,4,Love it... Simple!
+8,Sumit,3,2,Not a big fan of such books
+9,Sumit,9,3,Could read this more often... Love the Cover too.
+10,Sumit,10,2,too boring, sorry
+11,Sumit,7,4,Powerful thoughts
+12,Piklu,0,3,It reminds me of Programming
+13,Piklu,1,2,Not a big fan of programs
+14,Piklu,3,5,Love reading!!!
+15,Piklu,4,5,The best programming book I ever had.
+16,Piklu,8,3,This is good.
+17,Piklu,2,4,I prefer technical books
+18,Jessica,0,4,It is good
+19,Jessica,1,2,I don't like spritual books
+20,Jessica,3,1,I don't like book
+21,Jessica,4,4,Very good book.
+22,Jessica,6,5,So good book
+23,Jessica,8,5,Awesome
+24,Jessica,2,3,Good, but I prefer the innovation
+25,Rudra,0,4,I will give it for sale
+26,Rudra,3,4,Dry but informative
+27,Rudra,7,5,Wonderful
+28,Rudra,8,3,Not bad
+29,Rudra,2,5,A special one
+30,Rudra,1,3,Enjoyable
+31,Sammer,0,4,This is very special book
+32,Sammer,10,5,Wow!
+33,Sammer,3,5,Hey, this is great stuff!
+34,Sammer,5,4,This is going to be in my memory for a very long time
+35,Sammer,2,5,Great!
+36,Sammer,8,5,Awesome
+37,Archis,0,4,Good for beginners
+38,Archis,2,5,ok i liked it
+39,Archis,5,5,Cover is so beautiful
+40,Archis,8,4,God!
+41,Archis,6,5,A different content
+42,Archis,4,5,Purity in thought
+43,Anil,10,5,Jooe!
+44,Anil,6,4,What is this
+45,Anil,0,4,Good reference
+46,Anil,1,2,Waste of money
+47,Anil,2,4,Well i am impressed
+47,Anil,8,5,Must Read
